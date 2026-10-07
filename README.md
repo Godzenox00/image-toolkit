@@ -110,3 +110,10 @@ Success! Saved processed image to sample_grayscale.jpg
 ## 👤 Author
 
 Developed by **ZENOX**
+
+---
+
+## 📜 License
+
+This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
+
