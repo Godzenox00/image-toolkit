@@ -44,7 +44,7 @@ A lightweight, Python-based CLI application for image viewing, manipulation, con
 Launch the interactive CLI menu using Python:
 
 ```bash
-python toolkit.py
+python toolkit.py```
 
 
 ## Overview
@@ -77,4 +77,4 @@ python toolkit.py
 20. Extract Red Channel
 21. Exit
 ==================================================
-
+```
