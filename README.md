@@ -33,25 +33,28 @@ A lightweight, Python-based CLI application for image viewing, manipulation, con
    ```bash
    git clone [https://github.com/your-username/image-toolkit.git](https://github.com/your-username/image-toolkit.git)
    cd image-toolkit
-
+   ```
 
 2. **Install dependencies:**
    ```bash
    pip install Pillow
-   
+   ```
+
+---
+
 ## 🖲️ How to Run
 
 Launch the interactive CLI menu using Python:
 
 ```bash
-python toolkit.py```
+python toolkit.py
+```
 
+---
 
-## Overview
+## 📋 Overview
 
-
-```bash
-
+```text
 ==================================================
                  IMAGE TOOLKIT
 ==================================================
@@ -78,3 +81,32 @@ python toolkit.py```
 21. Exit
 ==================================================
 ```
+
+---
+
+## 💡 Quick Example
+
+To apply a grayscale filter to an image:
+
+```bash
+$ python toolkit.py
+
+Select an option (1-21): 7
+Enter path to input image: sample.jpg
+Enter path for saved output image: sample_grayscale.jpg
+Success! Saved processed image to sample_grayscale.jpg
+```
+
+---
+
+## 🛠️ Tech Stack
+
+* **Language:** Python 3
+* **Core Library:** [Pillow (PIL)](https://python-pillow.org/)
+* **Domain:** CLI Tools, Image Processing, EXIF Data Analysis
+
+---
+
+## 👤 Author
+
+Developed by **ZENOX**
