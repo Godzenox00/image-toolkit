@@ -47,7 +47,7 @@ A lightweight, Python-based CLI application for image viewing, manipulation, con
 Launch the interactive CLI menu using Python:
 
 ```bash
-python toolkit.py
+python3 toolkit.py
 ```
 
 ---
