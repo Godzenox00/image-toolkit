@@ -34,8 +34,43 @@ A lightweight, Python-based CLI application for image viewing, manipulation, con
    git clone [https://github.com/your-username/image-toolkit.git](https://github.com/your-username/image-toolkit.git)
    cd image-toolkit
 
+
+2. **Install dependencies:**
+   ```bash
+   pip install Pillow
+   
 🖲️ How to Run
 ​Launch the interactive CLI menu using Python:
    ```bash
-pip install Pillow
+python toolkit.py
+
+**Overview**
+
+```bash
+
+==================================================
+                 IMAGE TOOLKIT
+==================================================
+ 1. EXIF & Location Viewer
+ 2. Image Stats & Color Palette
+ 3. ASCII Art Image Converter
+ 4. Text Watermark Generator
+ 5. Resize Image
+ 6. Convert Image Format
+ 7. Grayscale Filter
+ 8. Rotate & Flip Image
+ 9. Crop Image
+10. Generate Thumbnail
+11. Adjust Brightness/Contrast
+12. Gaussian Blur Filter
+13. Sharpen Image
+14. Invert Colors (Negative)
+15. Add Image Border
+16. Sepia Tone Filter
+17. Mirror Image (Horizontal)
+18. Compress Image Quality
+19. Edge Detection Filter
+20. Extract Red Channel
+21. Exit
+==================================================
 
