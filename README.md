@@ -39,7 +39,8 @@ A lightweight, Python-based CLI application for image viewing, manipulation, con
    ```bash
    pip install Pillow
    
-🖲️ How to Run
+🖲️ **How to Run**
+
 ​Launch the interactive CLI menu using Python:
    ```bash
 python toolkit.py
